@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59b4254918e543541aa2bbeaf7fb2b30, type: 3}
+  m_Name: Short Sword
+  m_EditorClassIdentifier: 
+  itemID: 1
+  weaponName: Espada Curta
+  description: "Espada utilizada por ca\xE7adores novatos"
+  damage: 50
+  image: {fileID: 21300006, guid: fc26f483f9de71146874da8abe8a1053, type: 3}
+  animation: {fileID: 7400000, guid: 757583ea9ded7ab4fbc055f2a4c9f06b, type: 2}
+  message: Get Short Sword

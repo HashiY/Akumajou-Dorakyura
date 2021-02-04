@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 295f24380af722d4aabddb73b3a1f39d, type: 3}
+  m_Name: Simple Armor
+  m_EditorClassIdentifier: 
+  itemID: 1
+  armorName: Armadura simples
+  description: Uma simples armadura que nao protege muito e feito de ....
+  image: {fileID: 21300000, guid: f8e3c2d2032027841b69016e4d23b017, type: 3}
+  defense: 10
+  message: Get Simple Armor
